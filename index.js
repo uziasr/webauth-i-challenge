@@ -1,3 +1,4 @@
+require('dotenv').config();
 const server = require('./data/api/server')
 
 const HOST = 8000
